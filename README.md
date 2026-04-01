@@ -5,7 +5,9 @@ This repository provides Praat scripts for preprocessing and acoustic analysis o
 ## Workflow
 
 1. Access Nemours database 
-Copy the required speech files in the Nemours\SPEECH\SENT directory. 
+1. **Access the Nemours database**  
+   Copy the required speech files into the following directory:
+   `Nemours\SPEECH\SENT`
 
 2. TextGrid generation
 Run `TextGridCreationForSegFiles.praat` to convert segmentation files into Praat TextGrid files.
