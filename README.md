@@ -2,7 +2,7 @@
 
 This repository provides Praat scripts for preprocessing and acoustic analysis of speech samples from the Nemours Database of Dysarthric Speech.
 
-## Forkflow
+## Workflow
 
 1. Access Nemours database 
 Copy the required speech files in the Nemours\SPEECH\SENT directory. 
